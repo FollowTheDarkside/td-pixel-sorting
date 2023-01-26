@@ -7,7 +7,7 @@
 A repository for pixel sorting using [TouchDesigner](https://derivative.ca/).
 <br>
 <br>
-Demo video is ~~[here]()~~.
+Demo video is [here](https://youtu.be/PSltUY2DSC4).
 <br>
 <br>
 
